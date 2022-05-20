@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JamesShadZ
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C++ and C#
+- 📫 How to reach me - noname.foxdelapox@gmail.com [ my email ;) ]
